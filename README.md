@@ -1,4 +1,4 @@
-![logo] (https://github.com/suryanshsgh9140/Suryanshpratapsingh9451/blob/main/InShot_20230321_020445258.jpg)
+
 <h1 align="center">Hi 👋, I'm Suryansh Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/suryansh9140" target="blank"><img src="https://img.shields.io/twitter/follow/suryansh9140?logo=twitter&style=for-the-badge" alt="suryansh9140" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website using react**
+- 🔭 I’m currently working on **PROJECT'S USING REACT**
 
-- 🌱 I’m currently learning **Reactjs,DSA**
+- 🌱 I’m currently learning **FULL STACK WEB DEVELOPMENT**
 
-- 🤝 I’m looking for help with **full stack project**
+- 🤝 I’m looking for **INTERNSHIP**
 
-- 💬 Ask me about **Reactjs , javascript,html,css,dsa**
+- 💬 Ask me about **REACTJS,JAVASCRIPT,HTML,CSS,DSA,PYTHON,JAVA**
 
 - 📫 How to reach me **suryansh143l@gmail.com**
 
