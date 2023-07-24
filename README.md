@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for **INTERNSHIP**
 
-- 💬 Ask me about **REACTJS,JAVASCRIPT,HTML,CSS,DSA,PYTHON,JAVA**
+- 💬 Ask me about **REACTJS,JAVASCRIPT, HTML,CSS, DSA,PYTHON, JAVA**
 
 - 📫 How to reach me **suryansh143l@gmail.com**
 
